@@ -15,7 +15,7 @@ const CartItem = (props)=>  {
                     <div className='cart-item-actions'>
                     <img 
                     onClick = {()=>{onInc(product)}}
-                    alt = "increase "
+                    alt = "increasee "
                     src='https://cdn-icons.flaticon.com/png/512/1665/premium/1665629.png?token=exp=1643640621~hmac=f11bcff172f9c2bb4f1c85e98842af3a' 
                      className='action-icons'
                      />
